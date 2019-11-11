@@ -4,4 +4,4 @@ BASE_HOA = {
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
 
-BASE_HOA[:third_earthers]<< "Snarfs"
+BASE_HOA [:third_earthers] << "Snarfs"
